@@ -50,5 +50,9 @@
   {
     "image": "H₂O.png",
     "answers": ["H₂O"]
+  },
+  {
+    "image": "[Ar] 3d⁶ 4s² 전자 배치를 가진 d-블록 원소.png",
+    "answers": ["[Ar] 3d⁶ 4s² 전자 배치를 가진 d-블록 원소"]
   }
 ]
