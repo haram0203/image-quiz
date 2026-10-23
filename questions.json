@@ -40,7 +40,7 @@
     "answers": ["pencil"]
   },
   {
-    "image": "#ff0000.png",
+    "image": "ff0000.png",
     "answers": ["#ff0000"]
   }
 ]
