@@ -1,42 +1,6 @@
 [
   {
-    "image": "001.png",
-    "answers": ["고양이", "냥이"]
+    "image": "sky1.png",
+    "answers": ["맑음"]
   },
-  {
-    "image": "002.png",
-    "answers": ["강아지", "개"]
-  },
-  {
-    "image": "003.png",
-    "answers": ["사과"]
-  },
-  {
-    "image": "004.png",
-    "answers": ["바나나"]
-  },
-  {
-    "image": "005.png",
-    "answers": ["자동차", "차"]
-  },
-  {
-    "image": "006.png",
-    "answers": ["비행기"]
-  },
-  {
-    "image": "007.png",
-    "answers": ["피자"]
-  },
-  {
-    "image": "008.png",
-    "answers": ["축구공"]
-  },
-  {
-    "image": "009.png",
-    "answers": ["시계"]
-  },
-  {
-    "image": "010.png",
-    "answers": ["컴퓨터", "PC"]
-  }
 ]
