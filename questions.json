@@ -42,5 +42,13 @@
   {
     "image": "ff0000.png",
     "answers": ["#ff0000"]
+  },
+  {
+    "image": "식물.png",
+    "answers": ["식물"]
+  },
+  {
+    "image": "H₂O.png",
+    "answers": ["H₂O"]
   }
 ]
