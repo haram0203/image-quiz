@@ -2,5 +2,34 @@
   {
     "image": "sky1.png",
     "answers": ["맑음"]
+  },
+  {
+    "image": "airplane.png",
+    "answers": ["✈️"]
+  },
+  {
+    "image": "불가사리.png",
+    "answers": ["불가사리"]
+  },
+  {
+    "image": "AI가생성함.png",
+    "answers": ["AI가 생성한 이미지"]
+  },
+  {
+    "image": "나무.png",
+    "answers": ["나무"]
+  },
+  {
+    "image": "태양.png",
+    "answers": ["태양"]
+  },
+  {
+    "image": "HD 209458.png",
+    "answers": ["HD 209458"]
+  },
+  {
+    "image": "pi.png",
+    "answers": ["3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348253421170679
+"]
   }
 ]
